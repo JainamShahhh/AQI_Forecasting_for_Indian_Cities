@@ -1,5 +1,14 @@
 # Short-Term AQI Forecasting for Indian Cities
 
+**Made by:**
+*   Jainam Shah (1857123)
+*   Mohammad Hamza (1887745)
+*   Akhil Mohandas (1869358)
+*   Kavin Darvin (1875798)
+*   Jagrat Ruparel (1865492)
+
+**Dataset Link:** [Google Drive](https://drive.google.com/drive/folders/1xe6MUJxoEv6vQCP6FkE1z7ZxFFZ3thvs?usp=share_link)
+
 This project implements a robust machine learning and deep learning pipeline to forecast hour-ahead Air Quality Index (AQI) for major Indian cities. By analyzing historical pollutant data and temporal patterns, the system provides actionable insights for environmental monitoring.
 
 ## 1. Project Overview
