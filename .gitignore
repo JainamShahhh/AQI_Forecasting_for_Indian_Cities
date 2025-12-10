@@ -1,0 +1,20 @@
+# Data Files (Too large for GitHub)
+*.csv
+*.zip
+*.rar
+*.dat
+
+# System Files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Tool artifacts
+patch_notebook.py
+fix_shap.py
+create_notebook.py
