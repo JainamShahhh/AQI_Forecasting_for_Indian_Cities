@@ -1,7 +1,7 @@
 # Model Card: AQI XGBoost Forecaster
 
 **Model Version**: 1.0  
-**Date**: December 2024  
+**Date**: December 2025  
 **Developers**: Jainam Shah, Mohammad Hamza, Akhil Mohandas, Kavin Darvin, Jagrat Ruparel
 
 > [!NOTE]
